@@ -4,7 +4,7 @@ This files are useful to connect *Arduino*'s **serial communication** to the int
 ![circuit](scheme.png "circuit scheme")
 
 #How it works
-Arduino sends a simple command thorgh **serial port** then the *pyscript* act as server for services like [IFTTT](https://ifttt.com/) or [Telegram](https://telegram.org/)
+Arduino sends a simple command throgh **serial port** then the *pyscript* act as server for services like [IFTTT](https://ifttt.com/) or [Telegram](https://telegram.org/)
 
 #Services
 ##IFTTT
