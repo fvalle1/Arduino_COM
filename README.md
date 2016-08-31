@@ -1,5 +1,5 @@
 # Arduino
-This files are useful to connect *Arduino*'s **serial communication* to the internet!
+This files are useful to connect *Arduino*'s **serial communication** to the internet!
 
 ![circuit](scheme.png "circuit scheme")
 
