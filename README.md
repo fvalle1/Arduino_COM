@@ -27,7 +27,7 @@ Now connect **Arduino** to a USB port of your computer, open *IDE* and get the n
 
 Clone this repo `git clone https://github.com/fvalle1/Arduino_serial`
 
-open *pyscript.py* write the keys and change the messages!
+open *pyscript.py* write your **correct keys** and change the messages!
 
 #Run
 Complete the [easy **circuit** at top of this page](scheme.png), **load** *Arduino.ino* to your board and finally 
