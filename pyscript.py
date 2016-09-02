@@ -1,6 +1,9 @@
 import serial #serial communication
 import time
 import requests #API requests
+import serial.tools.list_ports
+
+print(list(serial.tools.list_ports.comports()))
 
 trigger='<event_name>'
 IFTTTkey='<key>'
