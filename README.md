@@ -33,6 +33,11 @@ open *pyscript.py* write your **correct keys** and change the messages!
 Complete the [easy **circuit** at top of this page](scheme.png), **load** *Arduino.ino* to your board and finally 
 *run* `python pyscript.py`
 
+#Advanced
+*telegram.py* is a simple script the replies to a message in telegram as an *echo*
+
+if you write him '*dimmi qualcosa*' it will send to telegram the read of the serial port
+
 #License
 Copyright (C) 2016  fvalle1
 
